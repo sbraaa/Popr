@@ -16,4 +16,9 @@ Copyright and license
 Popr Copyright (c) 2015 Tipue, under the The MIT License.
 
 
+Additional notes
+------------------------------------------------------------
+- prevent from hiding if beyond right window edge
+
+
 
